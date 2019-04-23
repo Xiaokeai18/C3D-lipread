@@ -127,4 +127,4 @@ dmypy.json
 /visual_logs
 
 predict_ret.txt
-
+*.list
