@@ -125,6 +125,7 @@ dmypy.json
 /models
 ./models/*
 /visual_logs
+./visual_logs/*
 
 predict_ret.txt
 *.list
